@@ -17,8 +17,8 @@ Due: Monday morning, 9am
 For example:
 
 
-"Grave Band   -> 20 minutes"
-"Freaky Friday -> 30 minutes"
+"Grave Band   -> 20 minutes"  
+"Freaky Friday -> 30 minutes"  
 "HEADLINER: Dave's Weeekend -> 70 minutes"
 
 
