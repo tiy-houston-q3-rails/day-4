@@ -29,9 +29,11 @@ Tech Details
 1. Have Band class that gets populated by the user
 2. More than 2 bands in your app for user to choose from
 
+```ruby
 class Band
 end
 
 #....
 band_name = gets
 Band.new band_name
+```
